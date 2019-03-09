@@ -38,7 +38,7 @@ macroblock
 		PUSH_META SET_META LSHIFT
 		# Presses Command and holds it.
 		PUSH_META SET_META LGUI
-		$ Presses the number 4.
+		# Presses the number 4.
 		PRESS 4
 		# Clear all holds and presses.
 		POP_ALL_META
